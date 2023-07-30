@@ -11,11 +11,11 @@ namespace StockInfoFinder
         {
             try
             {
-                string apiKey = "7JK2ZHRJASAD3H7Y";
+                string apiKey = "demo";
                 while (true)
                 {
                     Console.Clear();
-                    Console.WriteLine("Get the info of a company by typing it's ticker: ");
+                    Console.WriteLine("Get the info of a company by typing it's ticker, with the demo API key, only IBM ticker works: ");
                     string symbol = Console.ReadLine();
 
                     // Construct the API endpoint URL with the required query parameters
