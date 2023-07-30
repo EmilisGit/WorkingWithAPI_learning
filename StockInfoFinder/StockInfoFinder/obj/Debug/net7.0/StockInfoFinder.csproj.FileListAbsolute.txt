@@ -1,0 +1,17 @@
+C:\Users\eshil\Desktop\C#projects\StockInfoFinder\StockInfoFinder\bin\Debug\net7.0\StockInfoFinder.exe
+C:\Users\eshil\Desktop\C#projects\StockInfoFinder\StockInfoFinder\bin\Debug\net7.0\StockInfoFinder.deps.json
+C:\Users\eshil\Desktop\C#projects\StockInfoFinder\StockInfoFinder\bin\Debug\net7.0\StockInfoFinder.runtimeconfig.json
+C:\Users\eshil\Desktop\C#projects\StockInfoFinder\StockInfoFinder\bin\Debug\net7.0\StockInfoFinder.dll
+C:\Users\eshil\Desktop\C#projects\StockInfoFinder\StockInfoFinder\bin\Debug\net7.0\StockInfoFinder.pdb
+C:\Users\eshil\Desktop\C#projects\StockInfoFinder\StockInfoFinder\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\eshil\Desktop\C#projects\StockInfoFinder\StockInfoFinder\obj\Debug\net7.0\StockInfoFinder.csproj.AssemblyReference.cache
+C:\Users\eshil\Desktop\C#projects\StockInfoFinder\StockInfoFinder\obj\Debug\net7.0\StockInfoFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eshil\Desktop\C#projects\StockInfoFinder\StockInfoFinder\obj\Debug\net7.0\StockInfoFinder.AssemblyInfoInputs.cache
+C:\Users\eshil\Desktop\C#projects\StockInfoFinder\StockInfoFinder\obj\Debug\net7.0\StockInfoFinder.AssemblyInfo.cs
+C:\Users\eshil\Desktop\C#projects\StockInfoFinder\StockInfoFinder\obj\Debug\net7.0\StockInfoFinder.csproj.CoreCompileInputs.cache
+C:\Users\eshil\Desktop\C#projects\StockInfoFinder\StockInfoFinder\obj\Debug\net7.0\StockInfoFinder.csproj.CopyComplete
+C:\Users\eshil\Desktop\C#projects\StockInfoFinder\StockInfoFinder\obj\Debug\net7.0\StockInfoFinder.dll
+C:\Users\eshil\Desktop\C#projects\StockInfoFinder\StockInfoFinder\obj\Debug\net7.0\refint\StockInfoFinder.dll
+C:\Users\eshil\Desktop\C#projects\StockInfoFinder\StockInfoFinder\obj\Debug\net7.0\StockInfoFinder.pdb
+C:\Users\eshil\Desktop\C#projects\StockInfoFinder\StockInfoFinder\obj\Debug\net7.0\StockInfoFinder.genruntimeconfig.cache
+C:\Users\eshil\Desktop\C#projects\StockInfoFinder\StockInfoFinder\obj\Debug\net7.0\ref\StockInfoFinder.dll
